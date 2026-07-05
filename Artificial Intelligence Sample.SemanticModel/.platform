@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Artificial Intelligence Sample"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5968b2c0-3e2e-4eef-bd2e-40a61a6a0827"
+  }
+}
